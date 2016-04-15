@@ -1,0 +1,21 @@
+
+img {
+	display: inline-block;
+	margin-top: 40px;
+	margin-left:75px; 
+	width: 70%;
+}
+
+#main {
+	margin: 0 auto;
+	width: 300px;
+}
+
+#grey {
+	width: 500px;
+	height: 300px;
+	background-color: #ADADAD;
+	margin: 0 auto;
+	display: none;
+}
+
